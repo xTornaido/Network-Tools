@@ -1,5 +1,3 @@
-from math import floor
-from socket import getaddrinfo
 from scapy.layers.inet import IP, ICMP
 from scapy.sendrecv import sr1
 from colorama import Fore
