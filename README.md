@@ -7,3 +7,4 @@
 
  ### Pinger
   Used to check if a server is online or offline and also lets you view your connection with the server.
+  Enter the host you would like to ping, TTL (Time to live), timeout (cancellation that automatically occurs after given interval of time has passed), count (Number of times you want to ping the server) and verbose (y for it to send response into console and n for no response).
